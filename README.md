@@ -57,13 +57,6 @@ Please feel free to contribute to this repository by submitting a pull request. 
 | Dataset Name | Brief description | Size | Type/Modality | [Link](URL) |
 ```
 
-```
-### Contribution Guidelines
-1. Ensure the dataset is publicly accessible
-2. Include size and format details
-3. Add a brief but informative description
-4. Use the provided table format
-```
 
 
 ---
