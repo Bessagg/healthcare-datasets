@@ -49,10 +49,6 @@ Dataset Details:
 |--------------|-------------|------------|------|------|
 | MIMIC-CXR-JPG | Chest X-rays with reports | Image + Text | 377,110 images | [Link](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) |
 
-## Contributing
-
-Please feel free to contribute to this repository by submitting a pull request. When adding a new dataset, please follow this format:
-
 ```markdown
 | Dataset Name | Brief description | Size | Type/Modality | [Link](URL) |
 ```
