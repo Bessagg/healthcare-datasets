@@ -1,6 +1,6 @@
 # Healthcare Datasets Repository 🏥
 
-A curated collection of healthcare datasets across different modalities (imaging, tabular data, EEG, and natural language processing).
+A collection of healthcare datasets that I'm saving for future projects.
 
 ## Table of Contents
 - [Imaging Datasets](#imaging-datasets)
